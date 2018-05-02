@@ -1,0 +1,20 @@
+/*this is the css for the maps api location based test*/
+body {
+	 background-color: coral;
+	 font-family: sans-serif;
+	 color: snow;
+	 text-align: center;
+}
+
+h1{
+	font-size: 3vw;
+}
+
+p {
+	font-size: 1vw;
+}
+
+#map {
+	height: 600px;
+	width: 100%;
+}
